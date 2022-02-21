@@ -8,7 +8,10 @@
    <img src="https://img.shields.io/badge/-@dnxit-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/muhammadafzalgujrat" alt="dnxit's linkedin">
-   <img src="https://img.shields.io/badge/-dnxit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadafzalgujrat" />
+   <img src="https://img.shields.io/badge/-@dnxit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadafzalgujrat" />
+ </a>
+  <a href="https://www.codeproject.com/Articles/dnxit" alt="dnxit's code project">
+   <img src="https://img.shields.io/badge/-@dnxit-black?style=flat-square&logo=codeproject&logoColor=yellow" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=dnxit&color=ff69b4&style=flat-square" />
