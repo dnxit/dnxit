@@ -1,6 +1,19 @@
 ### Hi there 👋
 
-<p align="center"> 
+> I’m a software engineer working with Web/desktop Applications. I love building WebApplication using ASP.NET Core MVC and desktop applications with wpf. As for the backend, I work with ASP.NET Core WebAPIs following service oriented/clean architecture.
+> 
+
+
+<p>
+ <a href="#" alt="Melad's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnxit&bg_color=2d333b&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true" />
+ </a>
+   <a href="https://github.com/unchase">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dnxit&&bg_color=2d333b&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide=css,html">
+  </a>
+</p>
+
+<p> 
  <a href="https://twitter.com/afzalviews" alt="dnxit's twitter">
    <img src="https://img.shields.io/badge/-@afzalviews-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
@@ -16,17 +29,4 @@
  <a>
    <img src="https://komarev.com/ghpvc/?username=dnxit&color=ff69b4&style=flat-square" />
  </a>
-</p>
-
-> I’m a software engineer working with Web/desktop Applications. I love building WebApplication using ASP.NET Core MVC and desktop applications with wpf. As for the backend, I work with ASP.NET Core WebAPIs following service oriented/clean architecture.
-> 
-
-
-<p align="center">
- <a href="#" alt="Melad's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnxit&bg_color=2d333b&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true" />
- </a>
-   <a href="https://github.com/unchase">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dnxit&&bg_color=2d333b&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide=css,html">
-  </a>
 </p>
