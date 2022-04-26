@@ -20,3 +20,13 @@
 
 > I’m a software engineer working with Web/desktop Applications. I love building WebApplication using ASP.NET Core MVC and desktop applications with wpf. As for the backend, I work with ASP.NET Core WebAPIs following service oriented/clean architecture.
 > 
+
+
+<p align="center">
+ <a href="#" alt="Melad's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnxit&bg_color=2d333b&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true" />
+ </a>
+   <a href="https://github.com/unchase">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dnxit&&bg_color=2d333b&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide=css,html">
+  </a>
+</p>
